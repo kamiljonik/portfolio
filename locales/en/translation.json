@@ -1,0 +1,40 @@
+{   
+    "home": {
+        "top": {
+            "title": "Hello!",
+            "description": "I'm Kamil",
+            "text": "I'm Web Developer\nBased in Poland"
+        },
+        "about": {
+            "title": "About me",
+            "i_love": "Music, New Technologies, Coding",
+            "description": "Lorem ipsum dol amet, more more more more",
+            "description_more": "Want to read more about me?",
+            "button": "Read more"
+        },
+        "projects": {
+            "title": "Projects",
+            "description": "Some of my favorite projects",
+            "button": "See more",
+            "hint": "Click and move images to reavel more"
+        },
+        "contact": {
+            "title": "Contact me",
+            "description": "If you're interested in cooperation",
+            "button": "Contact",
+            "social": "Find me on Social Media"
+        }
+    },
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "projects": "Projects",
+        "contact": "Contact",
+        "settings": {
+            "lang_title": "Language",
+            "lang_change": "Zmień na polski",
+            "theme_title": "Switch Theme"
+        }
+    }
+}
+

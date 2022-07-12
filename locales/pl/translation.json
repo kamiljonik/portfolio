@@ -1,0 +1,39 @@
+{   
+    "home": {
+        "top": {
+            "title": "Cześć!",
+            "description": "Nazywam się Kamil",
+            "text": "Projektuje strony internetowe"
+        },
+        "about": {
+            "title": "O mnie",
+            "i_love": "Muzykę, Nowe technologie, Kodować",
+            "description": "Lorem ipsum dol amet, coś tam coś tam",
+            "description_more": "Chcesz dowiedzieć się więcej o mnie?",
+            "button": "Czytaj dalej"
+        },
+        "projects": {
+            "title": "Projekty",
+            "description": "Niektóre z moich ulubionych projektów",
+            "button": "Zobacz więcej",
+            "hint": "Kliknij i przesuń obrazy eby zobaczyć więcej"
+        },
+        "contact": {
+            "title": "Kontak ze mną",
+            "description": "Jezeli jesteś zainteresowany współpracą",
+            "button": "Formularz",
+            "social": "Znajdź mnie na Social Media"
+        }
+    },
+    "menu": {
+        "home": "Strona główna",
+        "about": "O mnie",
+        "projects": "Projekty",
+        "contact": "Kontakt",
+        "settings": {
+            "lang_title": "Język",
+            "lang_change": "Switch to english",
+            "theme_title": "Zmień tryb"
+        }
+    }
+}
